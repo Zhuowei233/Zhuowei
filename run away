@@ -1,0 +1,12 @@
+<!DOCYPE html>
+<html>
+    <head>
+        <title> run a away from the tornado </title>
+   <link rel="stylesheet"
+        href="adventure.css">
+    </head>
+    <body>
+        <h1> You get into the car and start driving quickly. However, your car gets picked up by the ternado and unfortunately you die. </h1>
+        <img src="https://i.ytimg.com/vi/gfd8XjWptA0/maxresdefault.jpg" alt="car picked up by tornado" width="500" height="300">
+    </body>
+</html>
