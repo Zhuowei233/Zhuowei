@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Call and Ask Someone to Help </title>
+        <link rel="stylesheet"
+        href="adventure.css">
+</head>
+<body>
+<h1 class="paragrph"> 
+    People are gathering and running away from this place. No one pays attention to you because they are too busy to safe themselves.  
+    </h1>
+<img src="http://news.bbcimg.co.uk/media/images/68066000/jpg/_68066184_68066183.jpg" alt="People are running" width="500" height="300">
+</body>
+</html>
